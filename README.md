@@ -6,9 +6,9 @@
 **Software Engineer | Supervillain | Used his vacation days to watch Babylon fall**
 </div>
 
-**Check My Projects**
+**Check My Projects**<br>
 ![Kirby ~ Soft & Wet](https://github.com/MegaStrimp/MegaStrimp/blob/3f14fcc1d7d84323a83caab7fa43d87f25f0f32b/Assets/KSW%20Icon.png)<br>
-[Kirby ~ Soft & Wet](https://github.com/MegaStrimp/Kirby-Soft-and-Wet)<br>
+[Kirby ~ Soft & Wet](https://github.com/MegaStrimp/Kirby-Soft-and-Wet)<br><br>
 
 ![Meta Knightmare Stellar Symphony](https://github.com/MegaStrimp/MegaStrimp/blob/3f14fcc1d7d84323a83caab7fa43d87f25f0f32b/Assets/MKSS%20Icon.png)<br>
 [Meta Knightmare Stellar Symphony](https://github.com/MegaStrimp/Meta-Knightmare-Stellar-Symphony)<br>
