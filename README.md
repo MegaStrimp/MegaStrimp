@@ -8,7 +8,7 @@
 **Used his vacation days to watch Babylon fall**
 
 <!-- Milestones -->
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC5FKgPyHJ7BkeH7_iXG3KsQ)  
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC5FKgPyHJ7BkeH7_iXG3KsQ)](#)  
 
 <!-- Tools -->
 [![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007AAC?logo=assemblyscript&logoColor=fff)](#)
@@ -39,13 +39,23 @@
 ![Kirby ~ Soft & Wet](https://github.com/MegaStrimp/MegaStrimp/blob/3f14fcc1d7d84323a83caab7fa43d87f25f0f32b/Assets/KSW%20Icon.png)
 
 ### [Kirby ~ Soft & Wet](https://github.com/MegaStrimp/Kirby-Soft-and-Wet)  
+A fishing minigame with over a thousand catchable fish from various other media. Meant to be an expansion of the minigame from Kirby and the Forgotten Land.
+This is a non-profit fan project. All rights belong to their respective owners  
+
 [![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff)](#)
+
 ---
+
 <!-- Meta Knightmare Stellar Symphony -->
 ![Meta Knightmare Stellar Symphony](https://github.com/MegaStrimp/MegaStrimp/blob/3f14fcc1d7d84323a83caab7fa43d87f25f0f32b/Assets/MKSS%20Icon.png)
 
-### [Meta Knightmare Stellar Symphony](https://github.com/MegaStrimp/Meta-Knightmare-Stellar-Symphony)
+### [Meta Knightmare Stellar Symphony](https://github.com/MegaStrimp/Meta-Knightmare-Stellar-Symphony)  
+A hack-n-slash action game made using cutting-edge game design techniques. Play as Meta Knight and solve the mysteries of Stellar Delusions affecting Dream Land.
+This is a non-profit fan project. All rights belong to their respective owners  
+
 [![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff)](#)
+
+---
 
 <!-- Contact -->
 ## Contact
