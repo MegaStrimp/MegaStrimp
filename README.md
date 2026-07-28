@@ -1,5 +1,5 @@
 # Strimp - Anıl Berk Bakır
-## Software Engineer | Supervillain | Used his vacation days to watch Babylon fall
+Software Engineer | Supervillain | Used his vacation days to watch Babylon fall
 
 - 🔭 Currently working on Meta Knightmare Stellar Symphony
 - 📫 Casual email: dragonfolly.extremis@gmail.com
