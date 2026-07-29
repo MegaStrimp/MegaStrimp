@@ -45,6 +45,7 @@ A fishing minigame with over a thousand catchable fish from various other media.
 This is a non-profit fan project. All rights belong to their respective owners  
 
 [![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 
 ---
 
@@ -56,6 +57,7 @@ A hack-n-slash action game made using cutting-edge game design techniques. Play 
 This is a non-profit fan project. All rights belong to their respective owners  
 
 [![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 
 ---
 
