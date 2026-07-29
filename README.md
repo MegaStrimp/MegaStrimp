@@ -7,6 +7,8 @@
 **Supervillain**  
 **Used his vacation days to watch Babylon fall**
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MegaStrimp&hide_title=true&show_icons=true&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=MegaStrimp&hide_title=true&show_icons=true&include_all_commits=true&theme=ambient_gradient)
+
 <!-- Milestones -->
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC5FKgPyHJ7BkeH7_iXG3KsQ)](#)  
 
