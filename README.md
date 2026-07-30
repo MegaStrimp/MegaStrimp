@@ -57,7 +57,7 @@
 
 ### [Kirby ~ Soft & Wet](https://github.com/MegaStrimp/Kirby-Soft-and-Wet)  
 A fishing minigame with over a thousand catchable fish from various other media. Meant to be an expansion of the minigame from Kirby and the Forgotten Land.
-This is a non-profit fan project. All rights belong to their respective owners  
+This is a non-profit fan project. All rights belong to their respective owners.  
 
 [![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
@@ -72,14 +72,154 @@ This is a non-profit fan project. All rights belong to their respective owners
 ![Meta Knightmare Stellar Symphony](https://github.com/MegaStrimp/MegaStrimp/blob/3f14fcc1d7d84323a83caab7fa43d87f25f0f32b/Assets/MKSS%20Icon.png)
 
 ### [Meta Knightmare Stellar Symphony](https://github.com/MegaStrimp/Meta-Knightmare-Stellar-Symphony)  
-A hack-n-slash action game made using cutting-edge game design techniques. Play as Meta Knight and solve the mysteries of Stellar Delusions affecting Dream Land.
-This is a non-profit fan project. All rights belong to their respective owners  
+A hack-n-slash action game based on the "Kirby" series, made using cutting-edge game design techniques. Play as Meta Knight and solve the mysteries of Stellar Delusions affecting Dream Land.
+This is a non-profit fan project. All rights belong to their respective owners.  
 
 [![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 [![Opera GX](https://img.shields.io/badge/Opera%20GX-EE2950?logo=operagx&logoColor=fff)](#)
+
+---
+
+<!-- Kirby Gamble Galaxy Stories -->
+![Kirby Gamble Galaxy Stories](https://github.com/MegaStrimp/MegaStrimp/blob/3f14fcc1d7d84323a83caab7fa43d87f25f0f32b/Assets/GGS%20Icon.png)
+
+### [Kirby Gamble Galaxy Stories](https://github.com/MegaStrimp/Kirby-Gamble-Galaxy-Stories)  
+An action platformer game based on the "Kirby" series. Accurately replicates the copy ability gameplay with new stages and an original storyline.
+This is a non-profit fan project. All rights belong to their respective owners.  
+
+[![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
+
+---
+
+<!-- Kirby Gamble Galaxy Stories ~ The Future -->
+![Kirby Gamble Galaxy Stories ~ The Future](https://github.com/MegaStrimp/MegaStrimp/blob/3f14fcc1d7d84323a83caab7fa43d87f25f0f32b/Assets/GGS%20The%20Future%20Icon.png)
+
+### [Kirby Gamble Galaxy Stories ~ The Future](https://github.com/MegaStrimp/Kirby-Gamble-Galaxy-Stories-The-Future)  
+A parody continuation of the Kirby Gamble Galaxy Stories game. Made for April Fools 2021.
+This is a non-profit fan project. All rights belong to their respective owners.  
+
+[![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+
+---
+
+<!-- StarDream Framework -->
+![StarDream Framework](https://github.com/MegaStrimp/MegaStrimp/blob/3f14fcc1d7d84323a83caab7fa43d87f25f0f32b/Assets/SDF%20Icon.png)
+
+### [StarDream Framework]
+A personal framework to be used alongside GML. Offers a script-based environment and helper functions.  
+
+[![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+
+---
+
+<!-- Deirdre -->
+![Deirdre](https://github.com/MegaStrimp/MegaStrimp/blob/3f14fcc1d7d84323a83caab7fa43d87f25f0f32b/Assets/Deirdre%20Icon.png)
+
+### [Deirdre](https://strimps-kitchen.itch.io/deirdre)  
+An Action Roguelike game where you fight a looping Gauntlet of Bosses with three characters and their unique sets of weapons. Made in a month for Boss Rush Jam 2025 with the theme of "Spin".  
+
+[![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+
+---
+
+<!-- Dededeball -->
+![Dededeball](https://github.com/MegaStrimp/MegaStrimp/blob/3f14fcc1d7d84323a83caab7fa43d87f25f0f32b/Assets/Dededeball%20Icon.png)
+
+### [Dededeball](https://github.com/MegaStrimp/Dededeball)  
+A custom Boss Battle based on Kirby's Dream Land for the Nintendo GameBoy. Physics and the environment were built from ground up to achieve accuracy to the original game.
+This is a non-profit fan project. All rights belong to their respective owners.  
+
+[![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
+
+---
+
+<!-- Waddle Dev vs Kirby Dark Dawn -->
+![Waddle Dev vs Kirby Dark Dawn](https://github.com/MegaStrimp/MegaStrimp/blob/3f14fcc1d7d84323a83caab7fa43d87f25f0f32b/Assets/Dark%20Dawn%20Icon.png)
+
+### [Waddle Dev vs Kirby Dark Dawn](https://github.com/MegaStrimp/Waddle-Dev-vs-Kirby-Dark-Dawn)  
+A parody shooter game based on the "Kirby" series, made as a birthday gift.
+This is a non-profit fan project. All rights belong to their respective owners.  
+
+[![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![Opera GX](https://img.shields.io/badge/Opera%20GX-EE2950?logo=operagx&logoColor=fff)](#)
+
+---
+
+<!-- Bozo -->
+![Bozo](https://github.com/MegaStrimp/MegaStrimp/blob/3f14fcc1d7d84323a83caab7fa43d87f25f0f32b/Assets/Bozo%20Icon.png)
+
+### [Bozo](https://github.com/MegaStrimp/Bozo-s-Gems)  
+A boss-focused shooter game with split paths and three characters offering different gameplay. Made for Bad Jam with a 48-hour time limit.
+
+[![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+
+[![Opera GX](https://img.shields.io/badge/Opera%20GX-EE2950?logo=operagx&logoColor=fff)](#)
+
+---
+
+<!-- Center -->
+![Center](https://github.com/MegaStrimp/MegaStrimp/blob/3f14fcc1d7d84323a83caab7fa43d87f25f0f32b/Assets/Center%20Icon.png)
+
+### [Center](https://github.com/MegaStrimp/Center)  
+A mobile diary application developed with the use of Android Studio and Kotlin. With Center, users can create daily notes and register their daily activities, accomplishments, and thoughts within a template suitable for a diary format.  
+
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-1976D2?logo=androidstudio&logoColor=fff)](#)
+[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
+
+[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
+
+---
+
+<!-- Mazecarousel -->
+![Mazecarousel](https://github.com/MegaStrimp/MegaStrimp/blob/3f14fcc1d7d84323a83caab7fa43d87f25f0f32b/Assets/Mazecarousel%20Icon.png)
+
+### [Mazecarousel](https://github.com/MegaStrimp/Mazecarousel)  
+A desktop application that randomly generates labyrinths from scratch and determines the shortest path between two nodes.  
+
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+
+---
+
+<!-- Strimpland -->
+![Strimpland](https://github.com/MegaStrimp/MegaStrimp/blob/3f14fcc1d7d84323a83caab7fa43d87f25f0f32b/Assets/Strimpland%20Icon.png)
+
+### [Strimpland](https://github.com/MegaStrimp/Strimpland)  
+An arcade game where you defeat waves of enemies and obstacles in a box. Defeat special enemies to absorb their unique abilities. Made for Beykoz University's Gamejam event with a 3-day time limit.  
+
+[![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+
+---
+
+<!-- More -->
+### [...and so much more!](https://github.com/MegaStrimp?tab=repositories)  
 
 ---
 
