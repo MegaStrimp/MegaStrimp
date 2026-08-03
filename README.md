@@ -179,7 +179,7 @@ A boss-focused shooter game with split paths and three characters offering diffe
 ---
 
 <!-- Whackamoley -->
-![Whackamoley](https://github.com/MegaStrimp/MegaStrimp/blob/66d4579f2c0aa32518acc17a0c15bf9ceccf0c9c/Assets/Whackamoley%20Icon.png)
+![Whackamoley](https://github.com/MegaStrimp/MegaStrimp/blob/1d9498b4d29d18f432119b292f2330ace967564f/Assets/Whackamoley%20Icon.png)
 
 ### [Whackamoley](https://github.com/MegaStrimp/Whackamoley)  
 A mobile arcade game based on the classic "Whack-a-Mole" formula with new twists.  
