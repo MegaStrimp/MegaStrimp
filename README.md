@@ -178,6 +178,19 @@ A boss-focused shooter game with split paths and three characters offering diffe
 
 ---
 
+<!-- Whackamoley -->
+![Whackamoley](https://github.com/MegaStrimp/MegaStrimp/blob/66d4579f2c0aa32518acc17a0c15bf9ceccf0c9c/Assets/Whackamoley%20Icon.png)
+
+### [Whackamoley](https://github.com/MegaStrimp/Whackamoley)  
+A mobile arcade game based on the classic "Whack-a-Mole" formula with new twists.  
+
+[![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+
+[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
+
+---
+
 <!-- Kirby Gamble Galaxy Stories ~ The Future -->
 ![Kirby Gamble Galaxy Stories ~ The Future](https://github.com/MegaStrimp/MegaStrimp/blob/66d4579f2c0aa32518acc17a0c15bf9ceccf0c9c/Assets/GGS%20The%20Future%20Icon.png)
 
